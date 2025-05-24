@@ -25,3 +25,12 @@ SHIN JUEUN
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![intellij idea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+# Experiences
+- 2021.03 ~ 경희대학교 컴퓨터공학과 재학
+- 2023.09 ~ 2023.11 경희대학교 컴퓨터공학과 트랙 스터디 대상
+- 2024.02 ~ 2024.03 구름톤 유니브 2기 백엔드
+- 2024.03 ~ 2024.11 AWS Cloud Club in South Korea 경희대학교 2기
+- 2024.03 ~ 2024.08 UMC 6기 경희대학교 백엔드 챌린저
+- 2024.04 ~ 2024.10 경희대학교 예술적인 소프트웨어 3기
+- 2024.08 ~ 2025.02 UMC 7기 경희대학교 회장
